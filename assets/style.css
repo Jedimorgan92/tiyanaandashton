@@ -1,0 +1,172 @@
+h1 {
+    color: #b76e79;
+    margin-top: 200px;
+    text-align: center;
+    font-family: cursive;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    color: #b76e79;
+}
+
+#title {
+    text-decoration: underline;
+    color: #b76e79;
+}
+
+h3 {
+    color: white;
+    font-variant: small-caps;
+}
+
+p {
+    font-size: 60px;
+    color: #b76e79;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.jumbotron {
+    color: white;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 5px;
+    display: block;
+}
+
+#coverPageLink {
+    color: #b76e79;
+    font-family: cursive;
+    font-size: 30px;
+    background-color: none;
+}
+
+
+ul li {
+    color: #b76e79;
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 1em 1em 0;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+a {
+    display: block;
+    color: white;
+    font-variant: small-caps;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: none;
+    background-color: none;
+    color: navy;
+}
+
+#coverLink {
+    color: #b76e79;
+}
+
+#detailsInfo {
+    font-size: 25px;
+    color: white;
+    font-variant: small-caps;
+}
+
+#faqInfo {
+    font-size: 25px;
+    color: white;
+    font-variant: small-caps;
+    text-align: left;
+}
+
+#ourStoryInfo, #registryInfo, #faqInfo {
+    color: white;
+    font-size: 25px;
+    font-variant: small-caps;
+}
+
+#registryInfo {
+    margin-top: 300px;
+    color: white;
+    font-size: 25px;
+    font-variant: small-caps;
+}
+
+#detailsHeading, #ourStoryHeading, #faqHeading {
+    color: white;
+}
+
+#detailsJumbo, #ourStoryJumbo, #faqJumbo {
+    color: #b76e79;
+    padding: 2px;
+    margin: 100px 200px 100px 200px;
+}
+
+
+.navLinks {
+    text-align: center;
+}
+
+#coverHeading {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 250px;
+    font-size: 70px;
+    color: white;
+}
+
+#homeLink {
+    float: left;
+}
+
+#detailNav {
+    color: white;
+}
+
+#registryList {
+    font-size: 20px;
+    display: inherit;
+    font-variant: small-caps;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: transparent;
+    /**border: 3px solid white;**/
+    bottom: 0;
+    font-variant: small-caps;
+}
+
+.photoFooter {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: transparent;
+    /**border: 3px solid white;**/
+    bottom: 0;
+    font-variant: small-caps;
+}
+
+#schedule {
+    text-decoration: underline;
+}
+
+#scheduleInfo {
+    color: white;
+    font-family: cursive;
+}
+
+#scheduleJumbo {
+    padding: 2px;
+    margin: 100px 200px 100px 200px;
+}

@@ -1,0 +1,83 @@
+.cover-bg {
+    height : 100%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: url("/Users/jessicamorgan/Desktop/Wedding/assets/photos/engagementphotos/DSC_4197.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.details-bg {
+    height : 100%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: url("/Users/jessicamorgan/Desktop/Wedding/assets/photos/engagementphotos/Hands.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+.ourStory-bg {
+    height : 100%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: url("/Users/jessicamorgan/Desktop/Wedding/assets/photos/engagementphotos/PhotoOne.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+.registry-bg {
+    height : 100%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: url("/Users/jessicamorgan/Desktop/Wedding/assets/photos/engagementphotos/DSC_3983.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+.photos-bg {
+    height : 100%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #b76e79;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+.faq-bg {
+    height : 100%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #b76e79;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+.schedule-bg {
+    height : 100%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: url("/Users/jessicamorgan/Desktop/Wedding/assets/photos/engagementphotos/DSC_4228.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
